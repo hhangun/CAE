@@ -1,0 +1,118 @@
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       11:16:41
+
+ *** WARNING ***                         CP =       3.156   TIME= 11:16:44
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       3.422   TIME= 11:16:44
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       5.203   TIME= 11:16:45
+ Coefficient ratio exceeds 1.0e8 - Check results.                        
+
+ *** WARNING ***                         CP =       8.688   TIME= 11:16:50
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      12.859   TIME= 11:16:57
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      17.953   TIME= 11:17:03
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      23.297   TIME= 11:17:09
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      28.469   TIME= 11:17:15
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      33.828   TIME= 11:17:21
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      38.938   TIME= 11:17:27
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      43.531   TIME= 11:17:34
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      48.328   TIME= 11:17:40
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      52.938   TIME= 11:17:46
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      57.719   TIME= 11:17:51
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      62.203   TIME= 11:17:57
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      67.344   TIME= 11:18:03
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      72.172   TIME= 11:18:09
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      76.906   TIME= 11:18:15
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      81.828   TIME= 11:18:21
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      86.891   TIME= 11:18:27
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      91.734   TIME= 11:18:33
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      96.719   TIME= 11:18:39
+ Material number 3 (used by element 9197) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     102.500   TIME= 11:18:47
+ During this session the elapsed time exceeds the CPU time by 38%.  This 
+ often indicates either a lack of physical memory (RAM) required to      
+ efficiently handle this simulation or a particularly slow hard drive    
+ configuration.  This simulation can be expected to run faster on        
+ identical hardware if additional RAM or a faster hard drive             
+ configuration is made available.  For more details, please see the      
+ Mechanical APDL Performance Guide which is part of the Ansys Help       
+ system.                                                                 
